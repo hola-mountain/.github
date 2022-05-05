@@ -11,6 +11,14 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+## 팀내 규칙
+### `Commit Message 규칙`
+[Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
+ - 기능 추가일 경우 : feat
+ - 리팩토링일 경우 : refactor
+ - 스타일 변경일 경우 : style
+ - test case 추가일 경우 : test
+
 # Collaborators
 <table>
     <tr>
