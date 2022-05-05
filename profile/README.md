@@ -15,7 +15,7 @@
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/59411545?v=4" /></a>
+            <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/89899636?v=4" /></a>
         </td>
         <td align="center">
             <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/31757314?v=4" /></a>
