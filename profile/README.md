@@ -14,10 +14,28 @@
 ## 팀내 규칙
 ### `Commit Message 규칙`
 [Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
- - 기능 추가일 경우 : feat
- - 리팩토링일 경우 : refactor
- - 스타일 변경일 경우 : style
- - test case 추가일 경우 : test
+- 기능 추가일 경우 : feat
+- 리팩토링일 경우 : refactor
+- 스타일 변경일 경우 : style
+- test case 추가일 경우 : test
+
+### `프로그래밍 작성 규칙`
+- 탭은 스페이스 2칸을 기초로 한다.
+
+### `브랜치 전략`
+- 기능별로 브랜치를 생성하는 [Git FLow전략](https://techblog.woowahan.com/2553/)을 사용한다.
+- 각 기능별 Branch는 Dev Brach에 병합 후 Dev Branch에서 Test 진행 후 이상 없을시 Main Brach로 Merge한다.  
+
+### `일정`
+- 전체적인 일정은 MileStone을 사용한다.
+- MileStone에 맞는 세부일정은 Issue 발행을 통해 진행한다.
+- 일에 대한 분배와 진척사항은 task card를 사용해 진행한다.
+
+### `이슈 작성`
+- [이슈 작성 가이드]((https://hyeonic.tistory.com/181)를 따른다.
+
+### `공유`
+- 공유할 내용 및 파일과 일정 상세 사항들은 카카오톡 단체톡방을 사용한다.
 
 # Collaborators
 <table>
