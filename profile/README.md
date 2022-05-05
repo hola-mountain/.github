@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola-mountain 👋
+베이비붐 세대에 이어 MZ세대까지 전국민의 취미로 각광받고 있는 등산~
+어디산을 다녀야 하는지 궁금해하는 이들에게 등산 리뷰를 제공하고 등산로 추천~
 
 <!--
 
@@ -11,7 +13,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## 팀내 규칙
+## 협업 규칙
 ### `Commit Message 규칙`
 [Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
 - 기능 추가일 경우 : feat
