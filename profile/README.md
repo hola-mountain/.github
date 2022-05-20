@@ -22,7 +22,7 @@
 
 ### 2. 사용한 기술스택 목록
 FRONT END<br/>
-<img src="https://img.shields.io/badge/Vue.js-007396?style=for-the-badge&logo=Vue.js 3&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-007396?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-4479A1?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Chart.js-6DB33F?style=for-the-badge&logo=Chart.js&logoColor=white">
 <br/>
