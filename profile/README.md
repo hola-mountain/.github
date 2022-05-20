@@ -69,7 +69,8 @@ API 게이트웨이 도메인
 
 
 ### 5 개발 과정
-1. 구현 항목 및 API
+1. [팀협업규칙](https://github.com/hola-mountain/back/wiki/%ED%8C%80-%ED%98%91%EC%97%85-%EA%B7%9C%EC%B9%99)<br/>
+2. 구현 항목 및 API
 - User    : 유저가 로그인을 시도한다.
 - User    : 유저가 회원가입을 시도한다.
 - Moutain : 유저가 산 리스트를 조회한다.
@@ -88,7 +89,6 @@ API 게이트웨이 도메인
 - User    : 유저가 마이페이지에서 즐겨찾기한 산목록을 불러온다.
 - User    : 유저가 마이페이지에서 작성한 리뷰 목록을 불러온다.<br/>
 [API 목록 정의서 바로가기](https://www.notion.so/Holam-41cd098b37c0496f86d296960f333df3)
-2. [팀협업규칙](https://github.com/hola-mountain/back/wiki/%ED%8C%80-%ED%98%91%EC%97%85-%EA%B7%9C%EC%B9%99)<br/>
 3. [마일스톤 Back](https://github.com/hola-mountain/back/milestones), [마일스톤 Front](https://github.com/hola-mountain/front/milestones)<br/>
 4. [프로토타이핑](https://ovenapp.io/view/mVyNHivUTx5M0n7dOR2q59s3rk5NFNAu/)<br/>
 5. [ERD Cloud](https://www.erdcloud.com/d/E9duAnHgfLZhhrRFd)
