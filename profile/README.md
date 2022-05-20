@@ -12,7 +12,7 @@
 <br>
 &nbsp;&nbsp;5   배포 링크
 <br>
-&nbsp;&nbsp;6   기술발표
+&nbsp;&nbsp;6   시연
 <br>
 &nbsp;&nbsp;7   Q&A
 <br>
