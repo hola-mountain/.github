@@ -125,3 +125,15 @@ API 게이트웨이 도메인
         <td align="center">MOUNTAIN DOMAIN, KAFKA</td>
     </tr>
 </table>
+
+## 시연영상
+
+### 로그인 후 페이징 처리
+
+
+### 산 디테일
+![대현산 디테일 방문](https://user-images.githubusercontent.com/32606456/169554290-acb262e5-d037-4ff0-8ef5-61d7d1c0a3c8.gif)
+
+
+### 마이페이지 카프카 연동
+![마이페이지](https://user-images.githubusercontent.com/32606456/169554383-175484e0-cc85-4378-8da9-a7c0f3c65c9c.gif)
