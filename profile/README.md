@@ -1,43 +1,92 @@
-## Hola-mountain 👋
-베이비붐 세대에 이어 MZ세대까지 전국민의 취미로 각광받고 있는 등산~<br/>
-어디산을 다녀야 하는지 궁금해하는 이들에게 등산 리뷰를 제공하고 등산로 추천~
 
-<!--
+## -목차-
+&nbsp;&nbsp;1.  프로그램 소개
+<br>
+&nbsp;&nbsp;2.  사용한 기술스택 목록
+<br>
+&nbsp;&nbsp;3.  FRONTEND ARCHITECTURE
+<br>
+&nbsp;&nbsp;4.  BACKEND ARCHITECTURE
+<br>
+&nbsp;&nbsp;5   개발 과정
+<br>
+&nbsp;&nbsp;5   배포 링크
+<br>
+&nbsp;&nbsp;6   기술발표
+<br>
+&nbsp;&nbsp;7   Q&A
+<br>
+### 1. 프로그램 소개
+요즘 밀레니엄 세대뿐만 아니라 MZ세대의 취미로 까지 떠오른 등산.<br/>
+등산을 처음접하는 사람들에게 등산에 대한 정보를 제공하고 등산로에 대한 리뷰까지 작성할수 있게 해주는 사이트입니다.
 
-**Here are some ideas to get you started:**
+### 2. 사용한 기술스택 목록
+FRONT END<br/>
+<img src="https://img.shields.io/badge/Vue.js 3-007396?style=for-the-badge&logo=Vue.js 3&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-4479A1?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/Chart.js-6DB33F?style=for-the-badge&logo=Chart.js&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Axios-007396?style=for-the-badge&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/Quasar-6DB33F?style=for-the-badge&logo=Quasar&logoColor=white">
+<img src="https://img.shields.io/badge/Pinia-231F20?style=for-the-badge&logo=Pinia&logoColor=white">  
+<img src="https://img.shields.io/badge/AWS-007396?style=for-the-badge&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Git-4479A1?style=for-the-badge&logo=Git&logoColor=white">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+BACK END<br/>
+유저 도메인<br/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">  
+<img src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Web Flux-6DB33F?style=for-the-badge&logo=Spring Web Flux&logoColor=white">
+<img src="https://img.shields.io/badge/R2DBC-231F20?style=for-the-badge&logo=R2DBC&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-231F20?style=for-the-badge&logo=JWT&logoColor=white">  
+****
+산 도메인  <br/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">  
+<img src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Web Flux-6DB33F?style=for-the-badge&logo=Spring Web Flux&logoColor=white">
+<img src="https://img.shields.io/badge/R2DBC-231F20?style=for-the-badge&logo=R2DBC&logoColor=white">
 
-## 협업 규칙
-### `Commit Message 규칙`
-[Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
-- 기능 추가일 경우 : feat
-- 리팩토링일 경우 : refactor
-- 스타일 변경일 경우 : style
-- test case 추가일 경우 : test
+### 3. FRONTEND ARCHITECTURE
+![image](https://user-images.githubusercontent.com/31757314/169457228-d5216ea7-0dc3-4820-99b6-d17e517c1472.png)
 
-### `프로그래밍 작성 규칙`
-- 탭은 스페이스 2칸을 기초로 한다.
+### 4. BACKEND ARCHITECTURE
+![image](https://user-images.githubusercontent.com/31757314/169458471-d49c116f-3c2c-4c94-a098-0e932e839189.png)
 
-### `브랜치 전략`
-- 기능별로 브랜치를 생성하는 [Git FLow전략](https://techblog.woowahan.com/2553/)을 사용한다.
-- 각 기능별 Branch는 Dev Brach에 병합 후 Dev Branch에서 Test 진행 후 이상 없을시 Main Brach로 Merge한다.  
 
-### `일정`
-- 전체적인 일정은 MileStone을 사용한다.
-- MileStone에 맞는 세부일정은 Issue 발행을 통해 진행한다.
-- 일에 대한 분배와 진척사항은 task card를 사용해 진행한다.
+### 5 개발 과정
+1. 구현 항목 및 API
+- User    : 유저가 로그인을 시도한다.
+- User    : 유저가 회원가입을 시도한다.
+- Moutain : 유저가 산 리스트를 조회한다.
+- Moutain : 유저가 특정산을 조회한다.
+- Moutain : 유저가 특정산을 즐겨찾기를 조회한다.
+- Moutain : 유저가 특정산의 리뷰를 불러온다.
+- Moutain : 유저가 특정산의 리뷰를 작성한다.
+- Moutain : 유저가 특정산의 리뷰를 삭제한다.
+- Moutain : 유저가 특정산의 리뷰를 추천한다.
+- Moutain : 유저가 특정산의 즐겨찾기를 추천한다.
+- Moutain : 유저가 특정산의 즐겨찾기를 해제한다.
+- Moutain : 유저가 특정산 리뷰를 등록할때 이미지를 첨부한다.
+- User    : 유저가 마이페이지에서 내 정보를 조회한다.
+- User    : 유저가 마이페이지에서 내 뱃지를 조회한다.
+- User    : 유저가 마이페이지에서 회원탈퇴한다.
+- User    : 유저가 마이페이지에서 즐겨찾기한 산목록을 불러온다.
+- User    : 유저가 마이페이지에서 작성한 리뷰 목록을 불러온다.<br/>
+[API 목록 정의서 바로가기](https://www.notion.so/Holam-41cd098b37c0496f86d296960f333df3)
+2. [프로토타이핑](https://ovenapp.io/view/mVyNHivUTx5M0n7dOR2q59s3rk5NFNAu/)<br/>
+3. [팀협업규칙](https://github.com/hola-mountain/back/wiki/%ED%8C%80-%ED%98%91%EC%97%85-%EA%B7%9C%EC%B9%99)<br/>
+4. [마일스톤](https://github.com/hola-mountain/back/milestones)<br/>
+5. 카카오톡<br/>
+![image](https://user-images.githubusercontent.com/31757314/169469223-6f2a80fb-3f1b-49df-b224-fa5b9da4b4ea.png)
+![image](https://user-images.githubusercontent.com/31757314/169469285-6d6410e7-e605-459a-96fd-d6bcb90992df.png)
 
-### `이슈 작성`
-- [이슈 작성 가이드](https://hyeonic.tistory.com/181)를 따른다.
-
-### `공유`
-- 공유할 내용 및 파일과 일정 상세 사항들은 카카오톡 단체톡방을 사용한다.
+### 6 배포 링크
+[홀람 바로가기](http://holam-front-s3.s3-website.ap-northeast-2.amazonaws.com)
+![image](https://user-images.githubusercontent.com/31757314/169456865-1aeb500d-b093-42ac-ba1a-3cc1c513c149.png)
 
 # Collaborators
 <table>
@@ -58,8 +107,8 @@
         <td align="center">주성호</td>
   </tr>
     <tr>
-        <td align="center">Front Total Page</td>
-        <td align="center">BackEnd User Domain</td>
-        <td align="center">BackEnd Mountain Domain</td>
+        <td align="center">Total Page</td>
+        <td align="center">USER DOMAIN, MYPAGE, API GATEWAY, INFRA STRUCTURE, KAFKA</td>
+        <td align="center">MOUNTAIN DOMAIN, KAFKA</td>
     </tr>
 </table>
