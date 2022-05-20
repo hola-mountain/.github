@@ -89,7 +89,7 @@ API 게이트웨이 도메인
 - User    : 유저가 마이페이지에서 작성한 리뷰 목록을 불러온다.<br/>
 [API 목록 정의서 바로가기](https://www.notion.so/Holam-41cd098b37c0496f86d296960f333df3)
 2. [팀협업규칙](https://github.com/hola-mountain/back/wiki/%ED%8C%80-%ED%98%91%EC%97%85-%EA%B7%9C%EC%B9%99)<br/>
-3. [마일스톤](https://github.com/hola-mountain/back/milestones)<br/>
+3. [마일스톤 Back](https://github.com/hola-mountain/back/milestones), [마일스톤 Front](https://github.com/hola-mountain/front/milestones)<br/>
 4. [프로토타이핑](https://ovenapp.io/view/mVyNHivUTx5M0n7dOR2q59s3rk5NFNAu/)<br/>
 5. [ERD Cloud](https://www.erdcloud.com/d/E9duAnHgfLZhhrRFd)
 6. 카카오톡<br/>
@@ -115,9 +115,9 @@ API 게이트웨이 도메인
         </td>
     </tr>
     <tr>
-        <td align="center">이재민</td>
-        <td align="center">강민준</td>
-        <td align="center">주성호</td>
+        <td align="center">이재민 - Front</td>
+        <td align="center">강민준 - Back</td>
+        <td align="center">주성호 - Back</td>
   </tr>
     <tr>
         <td align="center">Total Page</td>
