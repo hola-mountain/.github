@@ -37,6 +37,8 @@ API 게이트웨이 도메인
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Cloud GateWay-6DB33F?style=for-the-badge&logo=Spring Cloud GateWay&logoColor=white">  
+<img src="https://img.shields.io/badge/AWS-007396?style=for-the-badge&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Git-4479A1?style=for-the-badge&logo=Git&logoColor=white">
 
 유저 도메인<br/>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -46,6 +48,8 @@ API 게이트웨이 도메인
 <img src="https://img.shields.io/badge/Spring Web Flux-6DB33F?style=for-the-badge&logo=Spring Web Flux&logoColor=white">
 <img src="https://img.shields.io/badge/R2DBC-231F20?style=for-the-badge&logo=R2DBC&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-231F20?style=for-the-badge&logo=JWT&logoColor=white">  
+<img src="https://img.shields.io/badge/AWS-007396?style=for-the-badge&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Git-4479A1?style=for-the-badge&logo=Git&logoColor=white">
 ****
 산 도메인  <br/>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -54,6 +58,8 @@ API 게이트웨이 도메인
 <img src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Web Flux-6DB33F?style=for-the-badge&logo=Spring Web Flux&logoColor=white">
 <img src="https://img.shields.io/badge/R2DBC-231F20?style=for-the-badge&logo=R2DBC&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-007396?style=for-the-badge&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Git-4479A1?style=for-the-badge&logo=Git&logoColor=white">
 
 ### 3. FRONTEND ARCHITECTURE
 ![image](https://user-images.githubusercontent.com/31757314/169457228-d5216ea7-0dc3-4820-99b6-d17e517c1472.png)
