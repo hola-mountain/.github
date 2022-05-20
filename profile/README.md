@@ -134,7 +134,8 @@ API 게이트웨이 도메인
 
 ##
 ### 산 디테일
-![대현산 디테일 방문](https://user-images.githubusercontent.com/32606456/169554290-acb262e5-d037-4ff0-8ef5-61d7d1c0a3c8.gif)
+![대현산 디테일](https://user-images.githubusercontent.com/32606456/169557234-bcee3c14-da9e-4f67-baba-d8911fde3f0e.gif)
+
 
 ##
 ### 마이페이지 카프카 연동
