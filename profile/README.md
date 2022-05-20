@@ -95,6 +95,7 @@ API 게이트웨이 도메인
 6. 카카오톡<br/>
 ![image](https://user-images.githubusercontent.com/31757314/169469223-6f2a80fb-3f1b-49df-b224-fa5b9da4b4ea.png)
 ![image](https://user-images.githubusercontent.com/31757314/169469285-6d6410e7-e605-459a-96fd-d6bcb90992df.png)
+7. 에러공유(https://github.com/hola-mountain/back/wiki/%EC%97%90%EB%9F%AC-%EA%B3%B5%EC%9C%A0)<br/>
 
 ### 6 배포 링크
 [홀람 바로가기](http://holam-front-s3.s3-website.ap-northeast-2.amazonaws.com)
