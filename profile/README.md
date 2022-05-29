@@ -65,7 +65,7 @@ API 게이트웨이 도메인
 ![image](https://user-images.githubusercontent.com/31757314/169457228-d5216ea7-0dc3-4820-99b6-d17e517c1472.png)
 
 ### 4. BACKEND ARCHITECTURE
-![image](https://user-images.githubusercontent.com/31757314/169458471-d49c116f-3c2c-4c94-a098-0e932e839189.png)
+![image](https://user-images.githubusercontent.com/31757314/170862839-5208566d-a14c-4aa2-8355-5b47dd6320da.png)
 
 
 ### 5 개발 과정
