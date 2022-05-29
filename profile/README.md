@@ -142,3 +142,7 @@ API 게이트웨이 도메인
 <!-- ![마이페이지](https://user-images.githubusercontent.com/32606456/169554383-175484e0-cc85-4378-8da9-a7c0f3c65c9c.gif) -->
 ![마이페이지](https://user-images.githubusercontent.com/31757314/170856949-ef7901f7-d1e5-4911-b831-ea1d2aa6df3e.gif)
 
+### KAFKA ELK 연동
+![녹화_2022_05_29_19_03_41_774](https://user-images.githubusercontent.com/31757314/170862697-129ae6e0-97e5-43a6-bbf5-c3642e7b935b.gif)
+
+
