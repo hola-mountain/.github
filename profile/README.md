@@ -139,4 +139,6 @@ API 게이트웨이 도메인
 
 ##
 ### 마이페이지 카프카 연동
-![마이페이지](https://user-images.githubusercontent.com/32606456/169554383-175484e0-cc85-4378-8da9-a7c0f3c65c9c.gif)
+<!-- ![마이페이지](https://user-images.githubusercontent.com/32606456/169554383-175484e0-cc85-4378-8da9-a7c0f3c65c9c.gif) -->
+![마이페이지](https://user-images.githubusercontent.com/31757314/170856949-ef7901f7-d1e5-4911-b831-ea1d2aa6df3e.gif)
+
