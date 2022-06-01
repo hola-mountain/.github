@@ -87,6 +87,9 @@ API 게이트웨이 도메인
 - User    : 유저가 마이페이지에서 내 뱃지를 조회한다.
 - User    : 유저가 마이페이지에서 회원탈퇴한다.
 - User    : 유저가 마이페이지에서 즐겨찾기한 산목록을 불러온다.
+- User    : 유저가 로그아웃한다.
+- User    : 유저가 회원가입시 본인확인을 위해 이메일 인증을 한다.
+- User    : 유저가 로그인 기간동안 토큰을 재발급받는다. 
 - User    : 유저가 마이페이지에서 작성한 리뷰 목록을 불러온다.<br/>
 [API 목록 정의서 바로가기](https://www.notion.so/Holam-41cd098b37c0496f86d296960f333df3)
 3. [마일스톤 Back](https://github.com/hola-mountain/back/milestones), [마일스톤 Front](https://github.com/hola-mountain/front/milestones)<br/>
